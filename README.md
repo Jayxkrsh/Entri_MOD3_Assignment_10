@@ -3,6 +3,7 @@ This repository contains the SQL code for managing teacher data with built-in tr
 
 Teacher Table: A table to store teacher information such as ID, name, subject, experience, and salary.
 Teacher Log Table: A log table to capture changes to the teacher records, including insert and delete actions, along with timestamps.
+
 **Features**
 1. Teacher Table
 Stores key information about teachers: ID, name, subject, experience, and salary.
